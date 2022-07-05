@@ -1,0 +1,5 @@
+7/4/2022 2:10 p. m. - Messenger1: This is the first message between them
+7/4/2022 2:14 p. m. - Messenger2: This is the reply to the first messenger
+7/4/2022 2:20 p. m. - Messenger1: This is a test to check how to read a history chat conversation
+7/4/2022 2:25 p. m. - Messenger1: Sounds good.
+
